@@ -3,7 +3,7 @@
     <name>Party Game</name>
     <description>
     </description>
-    <content src="http://localhost:3000" />
+    <content src="http://beta.partyga.me" />
     <author email="support@phonegap.com" href="http://phonegap.com">
 
     </author>
